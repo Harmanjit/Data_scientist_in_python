@@ -152,3 +152,8 @@ cython_debug/
 #.idea/
 
 *.DS_Store
+/ISLP
+/output
+/raw_data
+/SPAdes
+/plots
